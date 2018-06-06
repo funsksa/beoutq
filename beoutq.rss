@@ -6,8 +6,8 @@
   <item>
     <title>القناة - 1 </title>
 
-    <enclosure url="http://c.blackhouse.sx/live1/tracks-v1a1/index.m3u8"  type="video/m3u8" />
-    <media:content url="http://c.blackhouse.sx/live1/tracks-v1a1/index.m3u8" type="video/m3u8" >
+    <enclosure url="http://c20.blackhouse.sx/live1/tracks-v1a1/mono.m3u8"  type="video/m3u8" />
+    <media:content url="http://c20.blackhouse.sx/live1/tracks-v1a1/mono.m3u8" type="video/m3u8" >
       <media:thumbnail url="img/1.png"/>
 
     </media:content>
@@ -17,9 +17,9 @@
   
     <title>القناة - 2 </title>
 
-    <enclosure url="http://c.blackhouse.sx/live2/tracks-v1a1/index.m3u8" type="video/m3u8" />
+    <enclosure url="http://c20.blackhouse.sx/live2/tracks-v1a1/mono.m3u8" type="video/m3u8" />
 
-    <media:content url="http://c.blackhouse.sx/live2/tracks-v1a1/index.m3u8" type="video/m3u8" >
+    <media:content url="http://c20.blackhouse.sx/live2/tracks-v1a1/mono.m3u8" type="video/m3u8" >
       <media:thumbnail url="img/2.png" />
     </media:content>
   </item>
@@ -27,9 +27,9 @@
   
     <title>القناة - 3 </title>
 
-    <enclosure url="http://c.blackhouse.sx/live3/tracks-v1a1/index.m3u8" type="video/m3u8" />
+    <enclosure url="http://c20.blackhouse.sx/live3/tracks-v1a1/mono.m3u8" type="video/m3u8" />
 
-    <media:content url="http://c.blackhouse.sx/live3/tracks-v1a1/index.m3u8" type="video/m3u8"  >
+    <media:content url="http://c20.blackhouse.sx/live3/tracks-v1a1/mono.m3u8" type="video/m3u8"  >
       <media:thumbnail url="img/3.png"/>
     </media:content>
   </item>
@@ -37,9 +37,9 @@
   
       <title>القناة - 4 </title>
 
-    <enclosure url="http://c.blackhouse.sx/live4/tracks-v1a1/index.m3u8" type="video/m3u8" />
+    <enclosure url="http://c20.blackhouse.sx/live4/tracks-v1a1/mono.m3u8" type="video/m3u8" />
 
-    <media:content url="http://c.blackhouse.sx/live4/tracks-v1a1/index.m3u8" type="video/m3u8"  >
+    <media:content url="http://c20.blackhouse.sx/live4/tracks-v1a1/mono.m3u8" type="video/m3u8"  >
       <media:thumbnail url="img/4.png" width="720"/>
     </media:content>
   </item>
@@ -47,9 +47,9 @@
   
       <title>القناة - 5 </title>
 
-    <enclosure url="http://c.blackhouse.sx/live5/tracks-v1a1/index.m3u8" type="video/m3u8" />
+    <enclosure url="http://c20.blackhouse.sx/live5/tracks-v1a1/mono.m3u8" type="video/m3u8" />
 
-    <media:content url="http://c.blackhouse.sx/live5/tracks-v1a1/index.m3u8" type="video/m3u8"  >
+    <media:content url="http://c20.blackhouse.sx/live5/tracks-v1a1/mono.m3u8" type="video/m3u8"  >
       <media:thumbnail url="img/5.png" width="720"/>
     </media:content>
   </item>
@@ -57,9 +57,9 @@
   
       <title>القناة - 6 </title>
 
-    <enclosure url="http://c.blackhouse.sx/live6/tracks-v1a1/index.m3u8" type="video/m3u8" />
+    <enclosure url="http://c38.blackhouse.sx/live6/tracks-v1a1/mono.m3u8" type="video/m3u8" />
 
-    <media:content url="http://c.blackhouse.sx/live6/tracks-v1a1/index.m3u8" type="video/m3u8"  >
+    <media:content url="http://c38.blackhouse.sx/live6/tracks-v1a1/mono.m3u8" type="video/m3u8"  >
       <media:thumbnail url="img/6.png" width="720"/>
     </media:content>
   </item>
@@ -67,9 +67,9 @@
   
       <title>القناة - 7 </title>
 
-    <enclosure url="http://c.blackhouse.sx/live7/tracks-v1a1/index.m3u8" type="video/m3u8" />
+    <enclosure url="http://c38.blackhouse.sx/live7/tracks-v1a1/mono.m3u8" type="video/m3u8" />
 
-    <media:content url="http://c.blackhouse.sx/live7/tracks-v1a1/index.m3u8" type="video/m3u8"  >
+    <media:content url="http://c38.blackhouse.sx/live7/tracks-v1a1/mono.m3u8" type="video/m3u8"  >
       <media:thumbnail url="img/7.png" width="720"/>
     </media:content>
   </item>
@@ -77,9 +77,9 @@
   
       <title>القناة - 8 </title>
 
-    <enclosure url="http://c.blackhouse.sx/live8/tracks-v1a1/index.m3u8" type="video/m3u8" />
+    <enclosure url="http://c38.blackhouse.sx/live8/tracks-v1a1/mono.m3u8" type="video/m3u8" />
 
-    <media:content url="http://c.blackhouse.sx/live8/tracks-v1a1/index.m3u8" type="video/m3u8"  >
+    <media:content url="http://c38.blackhouse.sx/live8/tracks-v1a1/mono.m3u8" type="video/m3u8"  >
       <media:thumbnail url="img/8.png" width="720"/>
     </media:content>
   </item>
@@ -87,9 +87,9 @@
   
       <title>القناة - 9 </title>
 
-    <enclosure url="http://c.blackhouse.sx/live9/tracks-v1a1/index.m3u8" type="video/m3u8" />
+    <enclosure url="http://c38.blackhouse.sx/live9/tracks-v1a1/mono.m3u8" type="video/m3u8" />
 
-    <media:content url="http://c.blackhouse.sx/live9/tracks-v1a1/index.m3u8" type="video/m3u8"  >
+    <media:content url="http://c38.blackhouse.sx/live9/tracks-v1a1/mono.m3u8" type="video/m3u8"  >
       <media:thumbnail url="img/9.png" width="720"/>
     </media:content>
   </item>
@@ -97,9 +97,9 @@
   
       <title>القناة - 10 </title>
 
-    <enclosure url="http://c.blackhouse.sx/live10/tracks-v1a1/index.m3u8" type="video/m3u8" />
+    <enclosure url="http://c38.blackhouse.sx/live10/tracks-v1a1/mono.m3u8" type="video/m3u8" />
 
-    <media:content url="http://c.blackhouse.sx/live10/tracks-v1a1/index.m3u8" type="video/m3u8"  >
+    <media:content url="http://c38.blackhouse.sx/live10/tracks-v1a1/mono.m3u8" type="video/m3u8"  >
       <media:thumbnail url="img/10.png" />
     </media:content>
   </item>
